@@ -1,16 +1,15 @@
 {
   "files": {
-    "main.css": "/restaurantetuiquisia/static/css/main.073c9b0a.css",
-    "main.js": "/restaurantetuiquisia/static/js/main.7f361fdc.js",
+    "main.css": "/restaurantetuiquisia/static/css/main.324bb4ad.css",
+    "main.js": "/restaurantetuiquisia/static/js/main.ec8dc4f2.js",
     "static/js/787.da8cf02a.chunk.js": "/restaurantetuiquisia/static/js/787.da8cf02a.chunk.js",
-    "static/media/logo.svg": "/restaurantetuiquisia/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/restaurantetuiquisia/index.html",
-    "main.073c9b0a.css.map": "/restaurantetuiquisia/static/css/main.073c9b0a.css.map",
-    "main.7f361fdc.js.map": "/restaurantetuiquisia/static/js/main.7f361fdc.js.map",
+    "main.324bb4ad.css.map": "/restaurantetuiquisia/static/css/main.324bb4ad.css.map",
+    "main.ec8dc4f2.js.map": "/restaurantetuiquisia/static/js/main.ec8dc4f2.js.map",
     "787.da8cf02a.chunk.js.map": "/restaurantetuiquisia/static/js/787.da8cf02a.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.073c9b0a.css",
-    "static/js/main.7f361fdc.js"
+    "static/css/main.324bb4ad.css",
+    "static/js/main.ec8dc4f2.js"
   ]
 }
