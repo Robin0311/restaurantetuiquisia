@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/restaurantetuiquisia/static/css/main.324bb4ad.css",
-    "main.js": "/restaurantetuiquisia/static/js/main.ec8dc4f2.js",
+    "main.js": "/restaurantetuiquisia/static/js/main.07d3cfb1.js",
     "static/js/787.da8cf02a.chunk.js": "/restaurantetuiquisia/static/js/787.da8cf02a.chunk.js",
     "index.html": "/restaurantetuiquisia/index.html",
     "main.324bb4ad.css.map": "/restaurantetuiquisia/static/css/main.324bb4ad.css.map",
-    "main.ec8dc4f2.js.map": "/restaurantetuiquisia/static/js/main.ec8dc4f2.js.map",
+    "main.07d3cfb1.js.map": "/restaurantetuiquisia/static/js/main.07d3cfb1.js.map",
     "787.da8cf02a.chunk.js.map": "/restaurantetuiquisia/static/js/787.da8cf02a.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.324bb4ad.css",
-    "static/js/main.ec8dc4f2.js"
+    "static/js/main.07d3cfb1.js"
   ]
 }
