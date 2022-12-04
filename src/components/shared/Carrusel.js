@@ -2,7 +2,7 @@ import { collection, onSnapshot, query } from "firebase/firestore";
 import { useEffect, useState } from "react";
 
 import Carousel from "react-bootstrap/Carousel";
-import { db } from "./../../config/firebase";
+import { db } from "./../../components/config/firebase";
 
 const Carrusel = () => {
   const [newsSite, setNewsSite] = useState([]);

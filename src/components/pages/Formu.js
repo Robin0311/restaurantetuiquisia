@@ -1,7 +1,7 @@
 import { useState } from "react";
 import Button from "react-bootstrap/Button";
 import Form from "react-bootstrap/Form";
-import { db } from "./../../config/firebase";
+import { db } from "./../../components/config/firebase";
 import { collection, addDoc } from "firebase/firestore";
 
 
